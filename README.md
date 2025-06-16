@@ -37,7 +37,7 @@ To be the best programmer, you have to do more than what the 1% are doing.
 
 ### 🌐 Connect with Me
 
-- 📫 **How to Reach Me:** samuelwamankalnduw@gmail.com
+- 📫 **How to Reach Me:** samuelnduw30@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nduw-53153126a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/SamNduw)
