@@ -2,7 +2,7 @@
 
 **`Software Developer | Web Developer, Full-Stack`**
 
-I'm a full-stack developer and currently studying Computer Science at NUST (Namibia University of Science & Technology). Building innovative and complex projects is my favorite thing to do. Constantly learning and eager to become the best, this is what defines me. During my childhood I have always been infornt of a computer, so this field is something that enjoy doing.
+I'm a full-stack developer and currently studying AI (Computer Science) at NUST (Namibia University of Science & Technology). Building innovative and complex projects is my favorite thing to do. Constantly learning and eager to become the best, this is what defines me. During my childhood I have always been infornt of a computer, so this field is something that enjoy doing.
 To be the best programmer, you have to do more than what the 1% are doing.
 
 #
